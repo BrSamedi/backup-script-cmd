@@ -1,0 +1,5 @@
+keepass;"e:\Program Files\KeePass"
+desktop;"c:\Users\Avaddon\Desktop"
+documents;"c:\Users\Avaddon\Documents"
+downloads;"c:\Users\Avaddon\Downloads"
+domains;"e:\Soft\openserver\domains"
